@@ -17,4 +17,4 @@ Ben **Java, Spring Boot ve Cloud Teknolojileri** üzerine yoğunlaşmış bir Bi
 * **Genetic Algorithm Routing Engine:** Karmaşık ağlarda rotalama problemlerini çözen evrimsel bir algoritma motoru.
 * **IoT Sensor Dashboard:** Şehir çapındaki sensörleri izleyen AWS tabanlı bir yönetim paneli.
 
-📫 **Bana Ulaşın:** [LinkedIn](https://www.linkedin.com/in/yusuf-kurudere/) | yusuf.kurudere06@gmail.com
+📫 **Bana Ulaşın:** [LinkedIn](https://www.linkedin.com/in/yusuf-kurudere-58ba4a252) | yusuf.kurudere06@gmail.com
