@@ -1,16 +1,20 @@
-## Hi there 👋
+### Selam, ben Yusuf! 👋
 
-<!--
-**kuruderee/kuruderee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben **Java, Spring Boot ve Cloud Teknolojileri** üzerine yoğunlaşmış bir Bilgisayar Mühendisliği öğrencisiyim. Üretim ortamında çalışan, ölçeklenebilir backend mimarileri ve IoT sistemleri geliştirmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Teknoloji Yığınım (Tech Stack)
+* **Backend:** Java, Spring Boot, RESTful APIs, Microservices
+* **Database:** MySQL, PostgreSQL, Hibernate/JPA
+* **Cloud & IoT:** AWS (EC2, RDS), Tuya IoT API, MQTT
+* **Mobile:** Android (Java), Google Maps SDK
+* **Tools:** Git, Docker, Postman, JWT
+
+---
+
+#### 🔭 Şu an Üzerinde Çalıştığım Projeler
+* **Genetic Algorithm Routing Engine:** Karmaşık ağlarda rotalama problemlerini çözen evrimsel bir algoritma motoru.
+* **IoT Sensor Dashboard:** Şehir çapındaki sensörleri izleyen AWS tabanlı bir yönetim paneli.
+
+📫 **Bana Ulaşın:** [LinkedIn](https://www.linkedin.com/in/yusuf-kurudere/) | yusuf.kurudere06@gmail.com
